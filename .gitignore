@@ -1,0 +1,6 @@
+# Ignore system-specific or sensitive files
+*.log
+*.tmp
+.DS_Store
+secrets/
+private_*
